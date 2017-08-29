@@ -11,7 +11,7 @@
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="false"
         android:layout_centerVertical="true"
-        android:text="firstfragment"
-        android:text="first"
+        android:text="2fragment"
+
         app:srcCompat="@drawable/a" />
 </RelativeLayout>
