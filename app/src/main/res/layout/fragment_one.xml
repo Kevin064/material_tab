@@ -12,5 +12,6 @@
         android:layout_centerHorizontal="false"
         android:layout_centerVertical="true"
         android:text="firstfragment"
+        android:text="first"
         app:srcCompat="@drawable/a" />
 </RelativeLayout>
